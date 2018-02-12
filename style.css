@@ -1,0 +1,26 @@
+body {
+    background-color: #E2D9D9;
+}
+
+div.selfphoto {
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 12px;
+}
+
+p {
+    font-family: 'Lusitana', serif;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 12px;
+
+}
+
+h1, h2 {
+    font-family: 'Lusitana', serif;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 12px;
+}
